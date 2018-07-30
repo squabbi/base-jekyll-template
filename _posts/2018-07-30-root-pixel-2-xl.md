@@ -2,10 +2,9 @@
 date: 2018-07-30 21:10:11 +1000
 title: Root Pixel 2 (XL)
 video_id: M-0NIUUvYI4
-description: Rooting your Pixel 2 (XL)
+description: A video guide on rooting your Pixel 2 (XL) using Magisk & Magisk Manager
 categories:
   - pixel-2
-  - root
 resources:
   - name: Magisk Beta
     link: >-
