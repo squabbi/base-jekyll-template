@@ -39,4 +39,4 @@ Read any newer, more relevant instructions wherever possible as this written gui
 
 We need to enable OEM unlocking before we are able to unlock the bootloader, as a security measure in place since Marshmallow (Android 6.0). For this, we need to enable the Developer options. Start by going to Settings, then navigating to System and selecting About Phone. Scroll down to the bottom and tap on the build number until you enable the developer options, you will need to confirm using your pattern.
 
-Once the developer options are enabled, go back once and select Developer options. Find OEM unlocking and enable (✔️) that, you will need to confirm with your pattern. Also locate USB debugging and enable (✔️) that as well.&nbsp;
+Once the developer options are enabled, go back once and select Developer options. Find OEM unlocking and enable (✔️) that, you will need to confirm with your pattern. Also locate USB debugging and enable (✔️) that as well.&
