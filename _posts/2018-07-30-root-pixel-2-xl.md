@@ -10,7 +10,7 @@ resources:
     link: >-
       https://forum.xda-developers.com/apps/magisk/beta-magisk-v13-0-0980cb6-t3618589
 type: Video
-set:
+set: pixel-2
 set_order: 2
 ---
 
